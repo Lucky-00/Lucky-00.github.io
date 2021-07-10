@@ -6,9 +6,6 @@ That's handy whenever you need to **read something on your screen from further a
 
 Even better, when you share text with large-type.com **only the person with the link sees your text**. Rendering happens locally on your browser and your text is not transmitted to any servers.
 
-![](twitter-card.png)
-
-Here's a quick [demo video](https://www.youtube.com/watch?v=EHaH3dO1YH4).
 
 ## FAQs
 
